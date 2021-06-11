@@ -1,0 +1,2 @@
+# CALC50
+Calc50 is a mobile iOS calculator application built with Swift and Xcode. The application allows users to do simple and complex arithmetic calculations as well as unit conversion and calculations involving time and date. The app is comprised of four calculators: a simple arithmetic calculator, a calculator for more complex operations such as logarithmic and trigonometric functions, a unit converter and a calculator for calculating the time between two different dates.
